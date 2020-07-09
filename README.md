@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="public/SW_bad_feeling.gif" />
+  <img src="https://ik.imagekit.io/dfw3q47dv0/SW_bad_feeling_-Mvspio6t.gif" />
 </h1>
 
 ## 👋 Hello, visitor! May The Force be with you!
